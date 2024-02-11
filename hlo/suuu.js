@@ -24,8 +24,6 @@ obj.Job ="Cars dealer"
 obj[index] = "umer"
 
 
-
-
 // Delete 
 
 // delete obj.name;
